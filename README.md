@@ -1,4 +1,4 @@
-# CMSC389K: Full-stack Web Development with Node.js 
+# CMSC389K: Full-stack Web Development with Node.js
 
 ![Imgur](http://i.imgur.com/19j0ajP.png)
 
@@ -8,17 +8,17 @@ This course provides a comprehensive, practical introduction to modern full-stac
 
 ## Course Details
 
-- **Course**: [CMSC389K](https://ntst.umd.edu/soc/search?courseId=CMSC389K&sectionId=&termId=201701&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)
+- **Course**: [CMSC389K](https://ntst.umd.edu/soc/search?courseId=CMSC389K&sectionId=&termId=201801&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on)
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
-- **Lecture Time**: Fridays, 3-3:50PM
-- **Location**: CSI 1122
-- **Semester**: Spring 2017
+- **Lecture Time**: Fridays, 1-1:50PM
+- **Location**: CSI 2118
+- **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Ishaan Parikh](https://www.linkedin.com/in/iparikh) and [Sashank Thupukari](https://www.linkedin.com/in/sthupukari)
-- **Faculty Advisor**: [Nelson Padua Perez](http://www.cs.umd.edu/~nelson/)
-- **Syllabus Last Updated**: May 24, 2017
+- **Course Facilitators**: [Timothy Chen](https://www.linkedin.com/in/timothychen01) and [Allen Cheng](https://www.linkedin.com/in/allen-cheng-6a40388a/)
+- **Faculty Advisor**: [John Dickerson](http://jpdickerson.com/)
+- **Syllabus Last Updated**: November 9, 2017
 
 ## Topics Covered
 - HTML and CSS
@@ -87,13 +87,13 @@ only be used for emergencies and not class related questions (e.g., projects).
 
 Instructor:
 
-Nelson Padua-Perez - nelson@cs.umd.edu
+Dr. John Dickerson - john@cs.umd.edu
 
 TAs:
 
-Ishaan Parikh - iparikh@umd.edu
+Timothy Chen - tchen112@terpmail.umd.edu
 
-Sashank Thupukari - sthukupa@terpmail.umd.edu
+Allen Cheng - ac@allencheng.me
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
