@@ -112,4 +112,4 @@ It is very important for you to be aware of the consequences of cheating, fabric
 
 If you have a suggestion for improving this class, don't hesitate to tell the instructor or TAs during the semester. At the end of the semester, please don't forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better.
 
-###### Thanks to the writers of <a href = "https://www.cs.umd.edu/class/fall2016/cmsc330/syllabus.shtml">this</a> syllabus for the wording of much of this document.
+###### Thanks to the writers of <a href = "https://www.cs.umd.edu/class/fall2016/cmsc330/syllabus.shtml">this</a> syllabus for the wording of much of this document and to [Ishaan Parikh](https://www.linkedin.com/in/iparikh) and [Sashank Thupukari](https://www.linkedin.com/in/sthupukari/) for creating this course and the STICS program.
