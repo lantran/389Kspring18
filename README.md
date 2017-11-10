@@ -66,7 +66,7 @@ will be considered afterwards.
 | 6 (3/3) | Express.js (cont.) | |
 | 7 (3/10) | Express.js (cont.) | P4 DUE |
 | 8 (3/17) | Midterm | Representatives Website (P5) OUT |
-| BREAK (3/24) | | | Final Project OUT |
+| BREAK (3/24) | | Final Project OUT |
 | 9 (3/31) | Databases | P5 DUE |
 | 10 (4/7) | Databases (cont.) |  |
 | 11 (4/14) | Mega Boilerplate | |
@@ -82,8 +82,7 @@ Projects may be submitted up to 24 hours late for a 10% penalty. If you submit b
 Unlike lower-level programming classes, we will not provide you with test cases (e.g., public tests) before projects are due. You will be responsible for developing your own tests and for using appropriate testing techniques. Also, we expect your projects to use proper style and documentation.
 
 ## Outside-of-class communication with course staff
-We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should
-only be used for emergencies and not class related questions (e.g., projects).
+We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should only be used for emergencies and not class related questions (e.g., projects).
 
 Instructor:
 
