@@ -58,15 +58,15 @@ will be considered afterwards.
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (1/27) | HTML + CSS | Personal Website (P1) OUT |
-| 2 (2/3) | Javascript Language w/ DOM | P1 DUE, JS Function Implementation (P2) OUT |
-| 3 (2/10) | jQuery and AJAX | P2 DUE, 50 State Game (P3) OUT |
+| 1 (1/27) | HTML + CSS | Personal Website (P1) |
+| 2 (2/3) | Javascript Language w/ DOM | P1 DUE, JS Function Implementation (P2) |
+| 3 (2/10) | jQuery and AJAX | P2 DUE, 50 State Game (P3) |
 | 4 (2/17) | Node.js |  |
-| 5 (2/24) | Express.js | P3 DUE, Pokémon API (P4) OUT |
+| 5 (2/24) | Express.js | P3 DUE, Pokémon API (P4) |
 | 6 (3/3) | Express.js (cont.) | |
 | 7 (3/10) | Express.js (cont.) | P4 DUE |
-| 8 (3/17) | Midterm | Representatives Website (P5) OUT |
-| BREAK (3/24) | | Final Project OUT |
+| 8 (3/17) | Midterm | Representatives Website (P5) |
+| BREAK (3/24) | | Final Project |
 | 9 (3/31) | Databases | P5 DUE |
 | 10 (4/7) | Databases (cont.) |  |
 | 11 (4/14) | Mega Boilerplate | |
